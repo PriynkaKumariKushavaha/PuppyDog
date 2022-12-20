@@ -1,0 +1,46 @@
+#wrapper{
+    margin-top: 20px;
+    margin-left: 38%;
+    background-color: aqua;
+    margin-right: 43%;
+    height: 430px;
+    width: 217px;
+    border: 2px solid rgb(175, 172, 172);
+    border-radius: 5px;
+}
+img{
+    height: 200px;
+    width: 217px;
+   
+}
+#activity{
+    margin-top: -4px;
+    height: 50px;
+    width: 217px;
+    background-color: aqua;
+}
+
+button{
+    cursor: pointer;
+    margin-left: 5.1px;
+    margin-bottom: 2px;
+}
+
+button:hover{
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+p{
+    text-align: center;
+    font-weight: 800;
+}
+#content{
+    font-family: cursive;
+    text-shadow: 20px;
+    text-align: center;
+}
+
